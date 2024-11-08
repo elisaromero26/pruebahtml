@@ -1,3 +1,3 @@
-# Paginas HTML ![Diagrama del sistema](cropped-Logo-Ucenm-Oficial.png)
+# Paginas HTML
 
 Visor html
